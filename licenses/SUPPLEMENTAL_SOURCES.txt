@@ -1,0 +1,29 @@
+SUPPLEMENTAL THIRD-PARTY LICENSE SOURCES
+Patsnap 2077
+
+These original upstream LICENSE files supplement THIRD_PARTY_NOTICES.txt.
+The installed npm packages omit standalone license files. Each version below is bound to the publisher gitHead in official npm metadata.
+The downloaded LICENSE bytes remain unchanged, including their copyright statements.
+Only packages with rendered code in the 2026-09-09 static build are supplemented here.
+The original installed-package inventory continues to describe the files available inside node_modules.
+
+Package: @react-three/fiber@9.7.0
+Version evidence: https://registry.npmjs.org/@react-three/fiber/9.7.0
+Publisher gitHead: 0a107412ac64667b1908422e859447952f57feef
+Original LICENSE: https://github.com/pmndrs/react-three-fiber/blob/0a107412ac64667b1908422e859447952f57feef/LICENSE
+Local original: react-three-fiber-9.7.0-LICENSE.txt
+SHA-256: 9c35b5de7b7493a707fffe4eb23bd2f7f449153c1911f7c6eefb4e591fd5349a
+
+Package: @react-three/rapier@2.2.0
+Version evidence: https://registry.npmjs.org/@react-three/rapier/2.2.0
+Publisher gitHead: ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98
+Original LICENSE: https://github.com/pmndrs/react-three-rapier/blob/ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98/LICENSE
+Local original: react-three-rapier-2.2.0-LICENSE.txt
+SHA-256: cd14add33d47bcecae9fed5559224ae135c5ec41e1d3a126601f5fbd82291834
+
+Package: @dimforge/rapier3d-compat@0.19.2
+Version evidence: https://registry.npmjs.org/@dimforge/rapier3d-compat/0.19.2
+Publisher gitHead: f072e6efa75f4f61a290bd0b58b61c443685ec01
+Original LICENSE: https://github.com/dimforge/rapier.js/blob/f072e6efa75f4f61a290bd0b58b61c443685ec01/LICENSE
+Local original: rapier3d-compat-0.19.2-LICENSE.txt
+SHA-256: 4c05555705e3efde601fb1252ae48f1d63992af8a8fb8947745b7fa834e8f519

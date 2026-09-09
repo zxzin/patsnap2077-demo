@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "sourceSha": "a1807ace8e87995de940454e99257b2c16671e6e",
+  "basePath": "/patsnap2077-demo/",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/acha-dialogue-portrait-v1.png",
+      "bytes": 1409761,
+      "sha256": "6a45a184ee3c7c71f0b03f401f5aa2ad4e9196c3dee3fb1322bd9049dc2c203e"
+    },
+    {
+      "path": "art/commission-archive-v2.png",
+      "bytes": 1576809,
+      "sha256": "b4305e533b1c00e83497f61e14c6e6ad6fc8ee039f90478539be1a5b88a7281b"
+    },
+    {
+      "path": "art/commission-canopy-v2.png",
+      "bytes": 1457011,
+      "sha256": "7aa8e04eb5e323ee4bc9cc2267255c7a3cd4e2a91ebf3b3fc80f36412b1a48ec"
+    },
+    {
+      "path": "art/commission-cart-v2.png",
+      "bytes": 1649259,
+      "sha256": "781415390e266e7e7e39a4c6300e6a9777ab60fdf67f79ee4bbb8d6a9140728a"
+    },
+    {
+      "path": "art/commission-tea-v2.png",
+      "bytes": 1300700,
+      "sha256": "bfe57ae3a7dc0221e326e9ea8d0b7e6a6a381beb0165917883701f7b15b2a6b2"
+    },
+    {
+      "path": "art/patsnap2077-logo-v1.png",
+      "bytes": 1564429,
+      "sha256": "1b9bbf06d835b38b4cafe3ed81fea69d70f84df325e7ca2af70cfb664cad9247"
+    },
+    {
+      "path": "art/story-dialogue-frame-v1.png",
+      "bytes": 1103597,
+      "sha256": "118a5bc020eaeb59c990af9268a0b333d991a69ea7971badc54e3bb5cebfcf70"
+    },
+    {
+      "path": "art/tea-neon-emblem-v1.png",
+      "bytes": 2096353,
+      "sha256": "6664fa80aac109c94628ea787a88379dc2d09dfc4c8bf0887962aa2f9e955261"
+    },
+    {
+      "path": "art/xiaopai-dialogue-portrait-v1.png",
+      "bytes": 1399663,
+      "sha256": "645784a8cd3aa7deca045640da5ca0b6b9809a43533d9e40eb5885b593ccd878"
+    },
+    {
+      "path": "art/yazai-engineer.png",
+      "bytes": 1182083,
+      "sha256": "32ab875f9e4242be5668c399871446a29502e16a80a162786f9d88bf6be69036"
+    },
+    {
+      "path": "assets/index-AOq3l6iG.js",
+      "bytes": 407839,
+      "sha256": "9bc777737ae3e880df08a961be5d36e16171ed0f2b81284cbeaa6d98e8487e3d"
+    },
+    {
+      "path": "assets/index-CsOO5d8Z.css",
+      "bytes": 164189,
+      "sha256": "6854c3d67dc354066b82691a61edb6c7c3b8f48e4fb72d47c054ee962ce00727"
+    },
+    {
+      "path": "assets/manrope-latin-800-normal-BfWYOv1c.woff2",
+      "bytes": 13648,
+      "sha256": "74c161dbcbce7c3590803cc72dc1f63313c360e13367aba5075a7b7b3818ea49"
+    },
+    {
+      "path": "assets/manrope-latin-800-normal-uHUdIJgA.woff",
+      "bytes": 17912,
+      "sha256": "ce954acb78379d559111a15d29925f3390b69161b2b1365c38b0f19c76991bac"
+    },
+    {
+      "path": "assets/Scene-Cu-4LEPt.js",
+      "bytes": 3426776,
+      "sha256": "c0fad3a3e071e56da45948b113cb7e1c428584c0848ca87c5b7eecb131da6869"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 1669,
+      "sha256": "1eaa1e3616767bd89b70da68912d1596aa515c704c03684cedf8002755fc1453"
+    },
+    {
+      "path": "index.html",
+      "bytes": 656,
+      "sha256": "b3ca2c0f8d2922aa1c256b81ec8c7991cbba1fcfe6b85a3df8b705a66873760d"
+    },
+    {
+      "path": "licenses/manrope-OFL.txt",
+      "bytes": 4383,
+      "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+    },
+    {
+      "path": "licenses/rapier3d-compat-0.19.2-LICENSE.txt",
+      "bytes": 11343,
+      "sha256": "4c05555705e3efde601fb1252ae48f1d63992af8a8fb8947745b7fa834e8f519"
+    },
+    {
+      "path": "licenses/react-three-fiber-9.7.0-LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "9c35b5de7b7493a707fffe4eb23bd2f7f449153c1911f7c6eefb4e591fd5349a"
+    },
+    {
+      "path": "licenses/react-three-rapier-2.2.0-LICENSE.txt",
+      "bytes": 1067,
+      "sha256": "cd14add33d47bcecae9fed5559224ae135c5ec41e1d3a126601f5fbd82291834"
+    },
+    {
+      "path": "licenses/SUPPLEMENTAL_SOURCES.txt",
+      "bytes": 1776,
+      "sha256": "520518e4750d920d1bd9ebb35639a64d0ed20d6dcd8a0ecc6437c8f8a15f628d"
+    },
+    {
+      "path": "licenses/THIRD_PARTY_NOTICES.txt",
+      "bytes": 155031,
+      "sha256": "a5d80ef97bc1e2a8abc803a5a3d733264c3df92a69851e875d75c17b6da5e5be"
+    },
+    {
+      "path": "licenses/zcool-kuaile-OFL.txt",
+      "bytes": 4396,
+      "sha256": "fedb735f9b624acc40c8b926a8220dc0992a9034c48a5175ebee2f9e6ea942ef"
+    },
+    {
+      "path": "README.md",
+      "bytes": 121,
+      "sha256": "333fa12897e330bc3cac26b064edb0f718bdf3e8b0ae1e5e6ad64387939d39f3"
+    }
+  ]
+}
