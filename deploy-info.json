@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceSha": "0f46295cbf1a80a590201d484298d04112cf7f3c",
+  "sourceSha": "5d1c314e1adddb2bf09e30153c5a05c7bf2f70b2",
   "basePath": "/patsnap2077-demo/",
   "files": [
     {
@@ -59,14 +59,14 @@
       "sha256": "32ab875f9e4242be5668c399871446a29502e16a80a162786f9d88bf6be69036"
     },
     {
+      "path": "assets/index-Cn0CErOk.js",
+      "bytes": 407839,
+      "sha256": "e89eacc786579fc4590e0c2bc5181a5baa7a34fcb332b6efce73dac2a0912b81"
+    },
+    {
       "path": "assets/index-CsOO5d8Z.css",
       "bytes": 164189,
       "sha256": "6854c3d67dc354066b82691a61edb6c7c3b8f48e4fb72d47c054ee962ce00727"
-    },
-    {
-      "path": "assets/index-PFP_0X6r.js",
-      "bytes": 407839,
-      "sha256": "d3cc6a9bc19e88ed6c87c50f14fadf992f0343fdd08aaa3891226134f5e2becc"
     },
     {
       "path": "assets/manrope-latin-800-normal-BfWYOv1c.woff2",
@@ -79,9 +79,9 @@
       "sha256": "ce954acb78379d559111a15d29925f3390b69161b2b1365c38b0f19c76991bac"
     },
     {
-      "path": "assets/Scene-DoZT6qji.js",
-      "bytes": 3439755,
-      "sha256": "a3d42de16909d925a049cfdc8b97000a82bbbbde14e3f1ee0e4f5e74e6b91f1a"
+      "path": "assets/Scene-DvlbzQnq.js",
+      "bytes": 3447317,
+      "sha256": "9ceca486203b3c79cdfa44e557695c78937ea52000d26441630c145621f74586"
     },
     {
       "path": "favicon.svg",
@@ -91,7 +91,7 @@
     {
       "path": "index.html",
       "bytes": 656,
-      "sha256": "dac0bd726031b248d461ab9360d1df2d6fddc5be10069b24753a2d90b8e5c697"
+      "sha256": "0a6c07a05be7f39c5cc7342aeeb1d827016fd397319affdc59a15b3abe52e03e"
     },
     {
       "path": "licenses/manrope-OFL.txt",
