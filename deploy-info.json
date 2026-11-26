@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceSha": "b2a24e2de38174efa69e089ee64e8d50a520823e",
+  "sourceSha": "dc4372082e54609b1223682d20c4df7568b6ea8a",
   "basePath": "/patsnap2077-demo/",
   "files": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "path": "art/exhibit-yazai/patkid-cast.glb",
-      "bytes": 2411720,
-      "sha256": "b1ec35b436a855d48af21c6a84d634c5a9d7d6a46d9cc26fd2f14a6ce4dba073"
+      "bytes": 2407880,
+      "sha256": "10768dee257036b67decad22ebffb24a0d27a34dbfc7c49e42833cf9c732dc68"
     },
     {
       "path": "art/exhibit-yazai/portrait-cart.webp",
@@ -54,9 +54,14 @@
       "sha256": "1a69188796594d691a1b9a36910bc5160f9cf7a8e9bb9fd06d18f469b93d8137"
     },
     {
-      "path": "assets/CityScene-CK6BjWvc.js",
+      "path": "assets/CityScene-Bv_Psy1Z.js",
       "bytes": 371314,
-      "sha256": "a6c3da79d3b2ed2c1e1af7c3a72cd895a820ea0da730e8baeaf838eac3e8b56a"
+      "sha256": "476aeed69809420974a294e29eeb77c32b15f5fdeda0531e62d430e845ecec78"
+    },
+    {
+      "path": "assets/dual-suspension-hH2zU92D.svg",
+      "bytes": 14721,
+      "sha256": "9db02576307ec7cff0cee2c38e5d6d2d3a99183273341534c311f16781c52582"
     },
     {
       "path": "assets/DuskSkyline-B71kqSWi.css",
@@ -64,9 +69,9 @@
       "sha256": "7f08cb75002e6a89979c33f0243f226cdb8b07de9ab0d29cc210a95bc29edf7a"
     },
     {
-      "path": "assets/DuskSkyline-BB6GmNNV.js",
-      "bytes": 3455935,
-      "sha256": "2e19895bd48ca5e1871dfcb433bac53a5f74cbbbb3a96f14a3ad1e1f3b8bbea4"
+      "path": "assets/DuskSkyline-BmNhN-Xg.js",
+      "bytes": 3456404,
+      "sha256": "80b105ad9cfd40c4e0538afcf924f6412ae6a70150f86ca66729b1b8547b86a2"
     },
     {
       "path": "assets/entry-cart-BDBZKUu1.webp",
@@ -94,19 +99,24 @@
       "sha256": "5507b589628bd8cf3efbf833731d1f30648c1af8eb26542814f72868946f77c5"
     },
     {
+      "path": "assets/folding-hinge-C8C5-MqY.svg",
+      "bytes": 27373,
+      "sha256": "a0b57e453a25009391ab9d2e43665ebedf3fd3ad6b5eea9fcd8e1c21ae491021"
+    },
+    {
       "path": "assets/grip-vqCZ4-lM.webp",
       "bytes": 127864,
       "sha256": "52db548471ccbc632963eb5f35b3ed2f18aa89a248a2c7bf9fdd77af7d1eaafe"
     },
     {
-      "path": "assets/index-BxpVX2qQ.js",
-      "bytes": 219515,
-      "sha256": "3655b92d70cef9005842248271eafae2f7b9e107f5a31b16cb1de487c017b4b1"
+      "path": "assets/index-Bt-YNJH9.css",
+      "bytes": 75229,
+      "sha256": "e384432b89adeec3577852cc435e212a40de05c2fa30c0456b7947308431b0cd"
     },
     {
-      "path": "assets/index-C3Fx9J89.css",
-      "bytes": 70379,
-      "sha256": "72a48b772a80fdf96fd993aa7713fc40fd75105cf51600dbc71741106c3bc33a"
+      "path": "assets/index-BZB7Hcn-.js",
+      "bytes": 229729,
+      "sha256": "6bd3e670744b5c7ca8330e78e21509888fc93995aee4a76dda8d070e3a7b9674"
     },
     {
       "path": "assets/manrope-latin-800-normal-BfWYOv1c.woff2",
@@ -124,19 +134,19 @@
       "sha256": "c7ddda961e4e10f924063cd2fa82bb106e1ff24e4904b2e67ff2f91e0ba24be9"
     },
     {
+      "path": "assets/Stations-B7NEW5al.js",
+      "bytes": 32549,
+      "sha256": "7a12a07d75d074df740542541db0cbc3da36883c88571b3d521b6494794d8955"
+    },
+    {
       "path": "assets/Stations-l4oPNOND.css",
       "bytes": 20127,
       "sha256": "079b00a0737cd3dc8b404a72638cefd305cb5e4691a37854c0ce902b56f9ea3a"
     },
     {
-      "path": "assets/Stations-shuEZ_vd.js",
-      "bytes": 32549,
-      "sha256": "b64041c525c301d5de32e6ab7008041b499a870dccff6f4e23d1d67ce3313960"
-    },
-    {
-      "path": "assets/StationScene-DAzuGcBN.js",
+      "path": "assets/StationScene-D_lakNjj.js",
       "bytes": 29671,
-      "sha256": "57c9b8fc6e62735adbc1a2d0d3a760a2dcad7e72a60c65b4b8342a27547dd702"
+      "sha256": "e5665d5978ce6cefc560014341f26478b65ba927fe5d93f90195f6ceeb01f829"
     },
     {
       "path": "audio/west-street-loop.m4a",
@@ -151,7 +161,7 @@
     {
       "path": "index.html",
       "bytes": 741,
-      "sha256": "b1e8c3551ef854a876bbc18cbae26cb7baf20b9ef53b019644979907ff5c5e48"
+      "sha256": "63268910e08d4c5177287227539d593cb02679308d23c91b5feccb6018e8b955"
     },
     {
       "path": "licenses/manrope-OFL.txt",
